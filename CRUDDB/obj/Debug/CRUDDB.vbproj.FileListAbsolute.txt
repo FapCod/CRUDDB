@@ -1,0 +1,22 @@
+c:\users\frank\documents\visual studio 2013\Projects\CRUDDB\CRUDDB\bin\Debug\CRUDDB.exe.config
+c:\users\frank\documents\visual studio 2013\Projects\CRUDDB\CRUDDB\bin\Debug\CRUDDB.exe
+c:\users\frank\documents\visual studio 2013\Projects\CRUDDB\CRUDDB\bin\Debug\CRUDDB.pdb
+c:\users\frank\documents\visual studio 2013\Projects\CRUDDB\CRUDDB\bin\Debug\CRUDDB.xml
+c:\users\frank\documents\visual studio 2013\Projects\CRUDDB\CRUDDB\obj\Debug\CRUDDB.CRUDDB.resources
+c:\users\frank\documents\visual studio 2013\Projects\CRUDDB\CRUDDB\obj\Debug\CRUDDB.Resources.resources
+c:\users\frank\documents\visual studio 2013\Projects\CRUDDB\CRUDDB\obj\Debug\CRUDDB.vbproj.GenerateResource.Cache
+c:\users\frank\documents\visual studio 2013\Projects\CRUDDB\CRUDDB\obj\Debug\CRUDDB.exe
+c:\users\frank\documents\visual studio 2013\Projects\CRUDDB\CRUDDB\obj\Debug\CRUDDB.xml
+c:\users\frank\documents\visual studio 2013\Projects\CRUDDB\CRUDDB\obj\Debug\CRUDDB.pdb
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\CRUDDB\CRUDDB\obj\Debug\CRUDDB.vbprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\VisualStudio2013\Projects\CRUDDB\CRUDDB\bin\Debug\CRUDDB.exe.config
+C:\Users\Frank\Documents\VisualStudio2013\Projects\CRUDDB\CRUDDB\obj\Debug\CRUDDB.exe
+C:\Users\Frank\Documents\VisualStudio2013\Projects\CRUDDB\CRUDDB\obj\Debug\CRUDDB.xml
+C:\Users\Frank\Documents\VisualStudio2013\Projects\CRUDDB\CRUDDB\obj\Debug\CRUDDB.pdb
+C:\Users\Frank\Documents\VisualStudio2013\Projects\CRUDDB\CRUDDB\bin\Debug\CRUDDB.exe
+C:\Users\Frank\Documents\VisualStudio2013\Projects\CRUDDB\CRUDDB\bin\Debug\CRUDDB.pdb
+C:\Users\Frank\Documents\VisualStudio2013\Projects\CRUDDB\CRUDDB\bin\Debug\CRUDDB.xml
+C:\Users\Frank\Documents\VisualStudio2013\Projects\CRUDDB\CRUDDB\obj\Debug\CRUDDB.vbprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\VisualStudio2013\Projects\CRUDDB\CRUDDB\obj\Debug\CRUDDB.CRUDDB.resources
+C:\Users\Frank\Documents\VisualStudio2013\Projects\CRUDDB\CRUDDB\obj\Debug\CRUDDB.Resources.resources
+C:\Users\Frank\Documents\VisualStudio2013\Projects\CRUDDB\CRUDDB\obj\Debug\CRUDDB.vbproj.GenerateResource.Cache
